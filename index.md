@@ -12,7 +12,7 @@ quick_facts:
   - "📍 Based in Greenwood, MS"
   
 
-linkedin: https://github.com/Bkaez/bkaezceamls26.github.io/edit/main/index.md
+linkedin: https://www.linkedin.com/in/blessed-kutyauripo-506661228/
 image: /assets/images/IMG_7334.jpeg
 
 # A "Currently" block — three short status lines for the home page.
