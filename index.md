@@ -4,7 +4,7 @@ title: Home
 display_name: Blessed Kutyauripo                  # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Curious about how research can shape better tools for everyday life."
+motto: "Curious about advancing renewable energy through robotics and automation."
 
 quick_facts:
   - "🎓 Junior, Engineering Technology/ Computer Science"
@@ -12,15 +12,15 @@ quick_facts:
   - "📍 Based in Greenwood, MS"
   
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://github.com/Bkaez/bkaezceamls26.github.io/edit/main/index.md
 image: /assets/images/IMG_7334.jpeg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
   - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
+    text: "Thick Face Black Heart — Chu Chin-Ning"
   - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
+    text: "Uccupancy-Aware HVAC System based on a raspberry pi"
   - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+    text: "How institutions can effectively curb the unethical use of AI by students"
 ---
