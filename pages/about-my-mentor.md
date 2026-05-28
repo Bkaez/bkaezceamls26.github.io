@@ -19,7 +19,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Pat Nguyen
   title: Associate Professor, School of Engineering
-  image: /assets/images/faculty-mentor.svg
+  image: assets/images/Dr. Li.jpg
   website: https://example.com/pat-nguyen
   bio: |
     Dr. Nguyen leads a research group focused on human-centered computing and
