@@ -20,7 +20,7 @@ currently:
   - label: Reading
     text: "Thick Face Black Heart — Chu Chin-Ning"
   - label: Building
-    text: "Uccupancy-Aware HVAC System based on a raspberry pi"
+    text: "Occupancy-Aware HVAC System based on a raspberry pi"
   - label: Wondering
     text: "How institutions can effectively curb the unethical use of AI by students"
 ---
