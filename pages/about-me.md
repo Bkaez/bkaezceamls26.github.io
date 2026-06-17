@@ -29,10 +29,10 @@ about:
       description: Working-out soothes my mind.
       
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
-    - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+    - image: assets/images/Bass.jpg
+      caption: Playing bass at church.
+    - image: assets/images/IceSkatting.jpg
+      caption: Cruising on the ice.
+    - image: assets/images/Tennis.JPG
+      caption: Playing college tennis
 ---
