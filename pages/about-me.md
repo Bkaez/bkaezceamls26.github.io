@@ -27,7 +27,7 @@ about:
     - icon: 🏋️‍♂️
       title: Working-out
       description: Working-out soothes my mind.
-
+      
   gallery:
     - image: /assets/images/gallery-1.svg
       caption: A great day on the trail.
