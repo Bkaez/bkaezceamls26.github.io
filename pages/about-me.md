@@ -11,13 +11,13 @@ about:
 
   bio: |
     Hi, my name is Blessed Kutyauripo, and I am an Engineering Technology major with a concentration in Electronics and a minor in Computer Science at Mississippi Valley State University. Originally from Zimbabwe, I am passionate about using technology to address real-world challenges in areas such as artificial intelligence, environmental sustainability, and robotics.
+    
+    This summer, I am conducting research on predicting PM2.5 air pollution levels using machine learning, satellite observations, and meteorological data. My goal is to explore how AI can improve air quality monitoring, particularly in regions where traditional monitoring stations are limited. Through this work, I hope to contribute to more accessible and data-driven environmental solutions.
+    
+    Outside of academics, I enjoy robotics, tennis, and community engagement. As a former captain of Team Zimbabwe at the FIRST Global Challenge, I have developed strong leadership, teamwork, and problem-solving skills. I aspire to build a career that combines engineering, data science, and innovation to create technologies that make a positive impact on society.
 
-  This summer, I am conducting research on predicting PM2.5 air pollution levels using machine learning, satellite observations, and meteorological data. My goal is to explore how AI can improve air quality monitoring, particularly in regions where traditional monitoring stations are limited. Through this work, I hope to contribute to more accessible and data-driven environmental solutions.
 
-  Outside of academics, I enjoy robotics, tennis, and community engagement. As a former captain of Team Zimbabwe at the FIRST Global Challenge, I have developed strong leadership, teamwork, and problem-solving skills. I aspire to build a career that combines engineering, data science, and innovation to create technologies that make a positive impact on society.
-
-
-    hobbies:
+  hobbies:
     - icon: 🎵
       title: Music
       description: I enjoy playing bass guitar and I am in the university choir.
