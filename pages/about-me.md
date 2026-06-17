@@ -17,7 +17,7 @@ about:
   Outside of academics, I enjoy robotics, tennis, and community engagement. As a former captain of Team Zimbabwe at the FIRST Global Challenge, I have developed strong leadership, teamwork, and problem-solving skills. I aspire to build a career that combines engineering, data science, and innovation to create technologies that make a positive impact on society.
 
 
-  hobbies:
+    hobbies:
     - icon: 🎵
       title: Music
       description: I enjoy playing bass guitar and I am in the university choir.
