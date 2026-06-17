@@ -12,7 +12,6 @@ problem: |
   Traditional air quality monitoring relies on ground-based sensors, which can be expensive to install and maintain. As a result, many regions have limited monitoring coverage, creating gaps in air quality data. This project seeks to address that limitation by exploring how satellite observations and meteorological data can be combined with artificial intelligence techniques to estimate and predict PM2.5 concentrations in areas where direct measurements are unavailable.
 
 approach: |
-  Describe how you'll approach the problem. A bulleted plan works well:
 
   - Step 1 — Collect and preprocess PM2.5 measurements, satellite-derived aerosol data, and meteorological variables such as temperature, humidity, wind speed, and precipitation.
   - Step 2 — Create useful features from the raw data, including interpolated PM2.5 values and time-based variables. Analyze relationships between environmental variables and PM2.5 through visualizations and statistical summaries.
