@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Blessed Kutyauripo
   role: Junior, Engineering Technology
-  image: /assets/images/profile.svg
+  image: assets/images/IMG_7334.jpeg
   linkedin: www.linkedin.com/in/blessed-kutyauripo-506661228
 
   bio: |
