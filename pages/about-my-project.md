@@ -3,38 +3,36 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Human-Computer Interaction & Adaptive Systems
-project_title: "My Summer Research Project"
+subtitle: Enhancing Air Quality Assessment Through Machine Learning
+project_title: "AI-Driven PM2.5 Prediction Using Satellite and Meteorological Data"
 
 problem: |
-  Briefly describe the problem your project tackles. Who is affected? Why does this
-  matter? What gap or limitation are you trying to address?
+  Fine particulate matter (PM2.5) is one of the most harmful air pollutants because it can penetrate deep into the lungs and bloodstream, leading to respiratory and cardiovascular diseases. Accurate monitoring of PM2.5 is important for protecting public health, informing environmental policies, and improving air quality management.
 
-  Aim for two to three short paragraphs. Plain language is great — your audience
-  may not be specialists in your sub-field.
+  Traditional air quality monitoring relies on ground-based sensors, which can be expensive to install and maintain. As a result, many regions have limited monitoring coverage, creating gaps in air quality data. This project seeks to address that limitation by exploring how satellite observations and meteorological data can be combined with artificial intelligence techniques to estimate and predict PM2.5 concentrations in areas where direct measurements are unavailable.
 
 approach: |
   Describe how you'll approach the problem. A bulleted plan works well:
 
-  - Step 1 — what you'll build, collect, or analyze first
-  - Step 2 — the next phase of the work
-  - Step 3 — how you'll evaluate or test
-  - Step 4 — how you'll communicate the results
+  - Step 1 — Collect and preprocess PM2.5 measurements, satellite-derived aerosol data, and meteorological variables such as temperature, humidity, wind speed, and precipitation.
+  - Step 2 — Create useful features from the raw data, including interpolated PM2.5 values and time-based variables. Analyze relationships between environmental variables and PM2.5 through visualizations and statistical summaries.
+  - Step 3 — Train machine learning models to predict PM2.5 concentrations using the processed satellite and weather data.
+  - Step 4 — Present the results through visualizations, a research poster, and a GitHub repository that documents the data pipeline, modeling process, and key findings.
 
-  Mention the specific tools, datasets, or methods you'll use.
+  The following tools will be used, Python, Pandas, NumPy, Plotly, Jupyter Notebooks, machine learning algorithms, satellite aerosol data, meteorological datasets, and PM2.5 monitoring data.
 
 outcome: |
-  What do you expect to produce by the end of the program? A working prototype?
-  A research poster? A short paper? Describe the artifacts and what you hope
-  others will be able to do with them.
+  By the end of the program, we expect to develop a machine learning model capable of estimating PM2.5 concentrations using satellite and weather data. The project will produce a cleaned and integrated dataset, data analysis workflows, visualizations, and a documented modeling pipeline.
 
-final_report_url: https://example.com/your-report.pdf
+  The final deliverables will include a GitHub repository, a research poster, and a presentation summarizing the methodology and findings. These resources can serve as a foundation for future research on AI-driven air quality monitoring and may help support air quality assessment in regions with limited ground-based monitoring infrastructure.
+
+final_report_url: "Coming soon"
 
 grad_mentor:
-  name: Alex Morgan
-  linkedin: https://www.linkedin.com/in/example
+  name: Rokeya Siddiqua
+  linkedin: https://www.linkedin.com/in/rokeya-siddiqua-91b68318b 
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  linkedin: https://www.linkedin.com/in/example
+  name: Dr. Xiaowen Li
+  linkedin: 
 ---
