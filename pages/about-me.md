@@ -4,30 +4,29 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Junior, Computer Science
+  name: Blessed Kutyauripo
+  role: Junior, Engineering Technology
   image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: www.linkedin.com/in/blessed-kutyauripo-506661228
+
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi, my name is Blessed Kutyauripo, and I am an Engineering Technology major with a concentration in Electronics and a minor in Computer Science at Mississippi Valley State University. Originally from Zimbabwe, I am passionate about using technology to address real-world challenges in areas such as artificial intelligence, environmental sustainability, and robotics.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+  This summer, I am conducting research on predicting PM2.5 air pollution levels using machine learning, satellite observations, and meteorological data. My goal is to explore how AI can improve air quality monitoring, particularly in regions where traditional monitoring stations are limited. Through this work, I hope to contribute to more accessible and data-driven environmental solutions.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+  Outside of academics, I enjoy robotics, tennis, and community engagement. As a former captain of Team Zimbabwe at the FIRST Global Challenge, I have developed strong leadership, teamwork, and problem-solving skills. I aspire to build a career that combines engineering, data science, and innovation to create technologies that make a positive impact on society.
+
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
-    - icon: 📚
-      title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+    - icon: 🎵
+      title: Music
+      description: I enjoy playing bass guitar and I am in the university choir.
+    - icon: ⛸️
+      title: Ice skating
+      description: I love ice skating.
+    - icon: 🏋️‍♂️
+      title: Working-out
+      description: Working-out soothes my mind.
 
   gallery:
     - image: /assets/images/gallery-1.svg
