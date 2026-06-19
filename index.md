@@ -14,6 +14,7 @@ quick_facts:
 
 linkedin: https://www.linkedin.com/in/blessed-kutyauripo-506661228/
 image: /assets/images/IMG_7334.jpeg
+CNN documentary: https://www.youtube.com/watch?v=I2WrIn5jtk8
 
 # A "Currently" block — three short status lines for the home page.
 currently:
