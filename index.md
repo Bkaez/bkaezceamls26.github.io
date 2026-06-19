@@ -11,9 +11,8 @@ quick_facts:
   - "🔬 Interested in Robotics"
   - "📍 Based in Greenwood, MS"
   
-
-linkedin: https://www.linkedin.com/in/blessed-kutyauripo-506661228/  CNN documentary: https://www.youtube.com/watch?v=I2WrIn5jtk8
-
+CNN documentary: https://www.youtube.com/watch?v=I2WrIn5jtk8
+linkedin: https://www.linkedin.com/in/blessed-kutyauripo-506661228/
 image: /assets/images/IMG_7334.jpeg
 
 # A "Currently" block — three short status lines for the home page.
