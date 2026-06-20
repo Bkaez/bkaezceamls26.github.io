@@ -11,7 +11,6 @@ quick_facts:
   - "🔬 Interested in Robotics"
   - "📍 Based in Greenwood, MS"
   
-CNN documentary: https://www.youtube.com/watch?v=I2WrIn5jtk8
 linkedin: https://www.linkedin.com/in/blessed-kutyauripo-506661228/
 image: /assets/images/IMG_7334.jpeg
 
