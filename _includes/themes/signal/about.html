@@ -8,6 +8,19 @@
     />
     {% endif %}
 
+{% if page.about.youtube %}
+<div class="about-video">
+  <p><strong>My CNN documentary:</strong></p>
+
+  <iframe width="560" height="315"
+    src="{{ page.about.youtube | replace: 'watch?v=', 'embed/' }}"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+
+</div>
+{% endif %}
+
     <div class="about-intro">
       <h1>{{ page.about.name }}</h1>
       {% if page.about.role %}
