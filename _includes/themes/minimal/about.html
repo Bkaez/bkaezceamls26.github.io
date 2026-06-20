@@ -9,14 +9,32 @@
     {% endif %}
 
     <div class="about-intro">
-      <h1>{{ page.about.name }}</h1>
-      {% if page.about.role %}
-      <p class="about-subtitle">{{ page.about.role }}</p>
-      {% endif %}
-      {% if page.about.linkedin %}
-      <a href="{{ page.about.linkedin }}" class="about-button" target="_blank">Connect on LinkedIn ↗</a>
-      {% endif %}
-    </div>
+  <h1>{{ page.about.name }}</h1>
+
+  {% if page.about.role %}
+  <p class="about-subtitle">{{ page.about.role }}</p>
+  {% endif %}
+
+  {% if page.about.linkedin %}
+  <a href="{{ page.about.linkedin }}" class="about-button" target="_blank">
+    Connect on LinkedIn ↗
+  </a>
+  {% endif %}
+
+  {% if page.about.youtube %}
+  <div class="about-video">
+    <p><strong>My CNN documentary:</strong></p>
+    <iframe 
+      width="560" 
+      height="315"
+      src="{{ page.about.youtube | replace: 'watch?v=', 'embed/' }}" 
+      title="YouTube video player"
+      frameborder="0"
+      allowfullscreen>
+    </iframe>
+  </div>
+  {% endif %}
+</div>
   </section>
 
   {% if page.about.bio %}
