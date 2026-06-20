@@ -12,6 +12,7 @@ quick_facts:
   - "📍 Based in Greenwood, MS"
   
 linkedin: https://www.linkedin.com/in/blessed-kutyauripo-506661228/
+youtube: https://www.youtube.com/watch?v=I2WrIn5jtk8
 image: /assets/images/IMG_7334.jpeg
 
 # A "Currently" block — three short status lines for the home page.
