@@ -1,5 +1,8 @@
 <article class="about-page">
+
+  <!-- HERO SECTION -->
   <section class="about-hero animate-in">
+
     {% if page.about.image %}
     <img
       src="{{ page.about.image | relative_url }}"
@@ -10,32 +13,36 @@
 
     <div class="about-intro">
       <h1>{{ page.about.name }}</h1>
+
       {% if page.about.role %}
       <p class="about-subtitle">{{ page.about.role }}</p>
       {% endif %}
+
       {% if page.about.linkedin %}
       <a href="{{ page.about.linkedin }}" class="about-link" target="_blank">
         Connect on LinkedIn ↗
       </a>
       {% endif %}
     </div>
+
   </section>
+
+  <!-- YOUTUBE VIDEO SECTION  -->
   {% if page.about.youtube %}
-<div class="about-video">
-  <p><strong>My CNN documentary:</strong></p>
+  <section class="about-video-section animate-in">
+    <p class="video-title"><strong>My CNN documentary:</strong></p>
 
-  <iframe width="560" height="315"
-    src="{{ page.about.youtube | replace: 'watch?v=', 'embed/' }}"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
+    <div class="video-wrapper">
+      <iframe
+        src="{{ page.about.youtube | replace: 'watch?v=', 'embed/' }}"
+        frameborder="0"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </section>
+  {% endif %}
 
- </div>
- {% endif %}
-</section>
-{% endif %}
-  
-
+  <!-- ✅ MY STORY (NOW FIXED ALIGNMENT) -->
   {% if page.about.bio %}
   <section class="about-bio animate-in">
     <h2>My Story</h2>
@@ -43,6 +50,7 @@
   </section>
   {% endif %}
 
+  <!-- HOBBIES -->
   {% if page.about.hobbies %}
   <section class="about-hobbies animate-in">
     <h2>Hobbies</h2>
@@ -58,9 +66,7 @@
   </section>
   {% endif %}
 
-  </div>
-</section>
-
+  <!-- GALLERY -->
   {% if page.about.gallery %}
   <section class="about-gallery animate-in">
     <h2>Gallery</h2>
@@ -74,7 +80,7 @@
     </div>
   </section>
 
-  <!-- Lightbox -->
+  <!-- LIGHTBOX -->
   <div id="lightbox" class="lightbox" aria-modal="true" role="dialog">
     <button id="lightboxClose" class="lightbox__close" aria-label="Close lightbox">&times;</button>
     <button id="lightboxPrev" class="lightbox__nav lightbox__nav--prev" aria-label="Previous image">&#8249;</button>
@@ -83,4 +89,5 @@
     <div id="lightboxCaption" class="lightbox__caption"></div>
   </div>
   {% endif %}
+
 </article>
