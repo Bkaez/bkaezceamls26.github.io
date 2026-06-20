@@ -8,7 +8,7 @@ about:
   role: Junior, Engineering Technology
   image: assets/images/IMG_7334.jpeg
   linkedin: www.linkedin.com/in/blessed-kutyauripo-506661228
-  CNN documentary: https://www.youtube.com/watch?v=I2WrIn5jtk8
+  youtube: https://www.youtube.com/watch?v=I2WrIn5jtk8
 
   bio: |
     Hi, my name is Blessed Kutyauripo, and I am an Engineering Technology major with a concentration in Electronics and a minor in Computer Science at Mississippi Valley State University. Originally from Zimbabwe, I am passionate about using technology to address real-world challenges in areas such as artificial intelligence, environmental sustainability, and robotics.
