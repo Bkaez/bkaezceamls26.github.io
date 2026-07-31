@@ -25,7 +25,7 @@ outcome: |
 
   The final deliverables will include a GitHub repository, a research poster, and a presentation summarizing the methodology and findings. These resources can serve as a foundation for future research on AI-driven air quality monitoring and may help support air quality assessment in regions with limited ground-based monitoring infrastructure.
 
-final_report_url: docs/P9___SAIRI_Final_Paper (1).pdf
+final_report_url: P9___SAIRI_Final_Paper (1).pdf
 
 grad_mentor:
   name: Rokeya Siddiqua
