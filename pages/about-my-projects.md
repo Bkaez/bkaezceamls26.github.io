@@ -10,7 +10,7 @@ A prototype exploring the use of **piezoelectric materials to generate electrica
 
 **Focus:** Electronics • Energy Harvesting • Prototyping
 
-[**View Project →**](docs/BlessedKutyauripo_ElectricStep.pdf)
+The_Electric_Step: docs/BlessedKutyauripo_ElectricStep.pdf
 
 
   
