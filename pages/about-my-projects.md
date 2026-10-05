@@ -3,12 +3,12 @@ layout: My projects
 title: About My Projects
 permalink: /about-my-projects.html
 
-## 🚀 Featured Projects
+  ## 🚀 Featured Projects
 
-### ⚡ Electric Step
-A prototype exploring the use of **piezoelectric materials to generate electrical energy from footsteps**.
+  ### ⚡ Electric Step
+  A prototype exploring the use of **piezoelectric materials to generate electrical energy from footsteps**.
 
-**Focus:** Electronics • Energy Harvesting • Prototyping
+  **Focus:** Electronics • Energy Harvesting • Prototyping
 
 The_Electric_Step: docs/BlessedKutyauripo_ElectricStep.pdf
 
